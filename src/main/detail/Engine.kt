@@ -1,0 +1,1 @@
+package main.detailclass Engine(isNotBroke: Boolean, isWork: Boolean) : WorkableDetail(isNotBroke, isWork)

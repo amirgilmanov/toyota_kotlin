@@ -1,0 +1,1 @@
+package main.detailclass Electrocity(isWork: Boolean, isNotBroke: Boolean) : WorkableDetail(isNotBroke, isWork)

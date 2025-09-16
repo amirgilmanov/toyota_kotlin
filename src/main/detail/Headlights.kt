@@ -1,0 +1,1 @@
+package main.detailclass Headlights(isNotBroke: Boolean, isWork: Boolean) : WorkableDetail(isNotBroke, isWork)

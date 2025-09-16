@@ -1,0 +1,1 @@
+package main.detailclass Roof(isNotBroke: Boolean, isWork: Boolean) : WorkableDetail(isNotBroke, isWork)

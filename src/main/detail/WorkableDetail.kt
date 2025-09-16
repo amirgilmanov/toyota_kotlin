@@ -1,0 +1,1 @@
+package main.detailabstract class WorkableDetail : Detail {    var isWork: Boolean    constructor(isNotBroke: Boolean, isWork: Boolean) : super(isWork) {        this.isWork = isWork    }}

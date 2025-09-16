@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb942ce8-a770-42e3-acdd-9bae3ea05cc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Runner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Transmission.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/WheelType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Cabriolet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Camry.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Dyna.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Hiance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/LightCar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Solara.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/car/Truck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/CruisControl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Detail.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Electrocity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Engine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/GazTank.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Headlights.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/MiniFridge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Roof.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Rosette.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Usb.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/Wheel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/detail/WorkableDetail.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exception/ChangeWheelException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exception/CountyFactoryNotEqualException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exception/StartCarException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/factory/Conveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/factory/Factory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resourses/tz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toyota_kotlin.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30aJAYmvDHC7mUxGFhDWzn5Z4hl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.exception" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="main.car" />
+      <recent name="main.detail" />
+      <recent name="main.exception" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="main.factory" />
+      <recent name="main.detail" />
+      <recent name="main.car" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainKt" />
+      <module name="toyota_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb942ce8-a770-42e3-acdd-9bae3ea05cc1" name="Changes" comment="" />
+      <created>1753859619444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753859619444</updated>
+      <workItem from="1753859620701" duration="13763000" />
+      <workItem from="1753884445581" duration="1782000" />
+      <workItem from="1753958599594" duration="7000" />
+      <workItem from="1754152331589" duration="387000" />
+      <workItem from="1754215631221" duration="597000" />
+      <workItem from="1754276659843" duration="66000" />
+      <workItem from="1756998521124" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
