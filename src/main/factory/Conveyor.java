@@ -10,7 +10,7 @@ public class Conveyor {
         this.factory = factory;
         this.country = country;
         if(!country.equals(factory.getCountry())) {
-            throw new CountyFactoryNotEqualException
+            throw new CountyFactoryNotEqualException();
         }
     }
 }
