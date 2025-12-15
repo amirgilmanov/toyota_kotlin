@@ -1,1 +1,14 @@
-package main.detailimport main.WheelType//Каждое колесо имеет состояние - проколото или нет,// диаметр (camry - 17, solara - 16, hiance - 20, dyna - 20).// Колеса могуть быть заменяемы если они одинакового диаметра.class Wheel : Detail {    var diameter: Int    constructor(isWork: Boolean, wheelType: WheelType) : super(isWork) {        this.diameter = wheelType.diameter    }}
+package main.detail
+
+import main.WheelType
+
+//Каждое колесо имеет состояние - проколото или нет,
+// диаметр (camry - 17, solara - 16, hiance - 20, dyna - 20).
+// Колеса могуть быть заменяемы если они одинакового диаметра.
+class Wheel : Detail {
+    var diameter: Int
+
+    constructor(isWork: Boolean, wheelType: WheelType) : super(isWork) {
+        this.diameter = wheelType.diameter
+    }
+}

@@ -1,1 +1,10 @@
-package mainclass Runner {  fun main() {        val age = 12;        val name = "Amir"        println("My name is $name and i am $age")    }}
+package main
+
+class Runner {
+  fun main() {
+        val age = 12;
+        val name = "Amir"
+
+        println("My name is $name and i am $age")
+    }
+}

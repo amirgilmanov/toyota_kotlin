@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb942ce8-a770-42e3-acdd-9bae3ea05cc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Runner.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Transmission.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/WheelType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Cabriolet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Camry.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Dyna.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Hiance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/LightCar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Solara.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/car/Truck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/CruisControl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Detail.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Electrocity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Engine.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/GazTank.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Headlights.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/MiniFridge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Roof.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Rosette.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Usb.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/Wheel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/detail/WorkableDetail.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/exception/ChangeWheelException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/exception/CountyFactoryNotEqualException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/exception/StartCarException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/factory/Conveyor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/factory/Factory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resourses/tz.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toyota_kotlin.iml" afterDir="false" />
-    </list>
+    <list default="true" id="eb942ce8-a770-42e3-acdd-9bae3ea05cc1" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "amirgilmanov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/amirgilmanov/toyota_kotlin.git",
+    "accountId": "d8a0895a-ccb9-41f7-83d1-c9e2919fda46"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -143,10 +112,24 @@
       <workItem from="1754215631221" duration="597000" />
       <workItem from="1754276659843" duration="66000" />
       <workItem from="1756998521124" duration="75000" />
+      <workItem from="1758037679117" duration="705000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1758037739781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758037739781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>

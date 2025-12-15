@@ -1,1 +1,4 @@
-package main.detailinterface Test {}
+package main.detail
+
+interface Test {
+}

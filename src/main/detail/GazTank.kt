@@ -1,1 +1,9 @@
-package main.detailclass GazTank : Detail {    var fuel: Double    constructor(isWork: Boolean, fuel: Double) : super(isWork) {        this.fuel = fuel    }}
+package main.detail
+
+class GazTank : Detail {
+    var fuel: Double
+
+    constructor(isWork: Boolean, fuel: Double) : super(isWork) {
+        this.fuel = fuel
+    }
+}

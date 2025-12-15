@@ -1,1 +1,8 @@
-package mainenum class WheelType(val diameter: Int) {    CAMRY(17),    SOLARA(16),    HIANCE(20),    DYNA(20);}
+package main
+
+enum class WheelType(val diameter: Int) {
+    CAMRY(17),
+    SOLARA(16),
+    HIANCE(20),
+    DYNA(20);
+}

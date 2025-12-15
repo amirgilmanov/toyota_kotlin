@@ -1,1 +1,4 @@
-package main.exception;public class CountyFactoryNotEqualException extends RuntimeException {}
+package main.exception;
+
+public class CountyFactoryNotEqualException extends RuntimeException {
+}

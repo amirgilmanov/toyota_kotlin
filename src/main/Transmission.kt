@@ -1,1 +1,7 @@
-package mainenum class Transmission {    AUTO,    MECHANIC,    ROBOT}
+package main
+
+enum class Transmission {
+    AUTO,
+    MECHANIC,
+    ROBOT
+}
